@@ -1,6 +1,6 @@
 #  IPv4 Validator
 
-> node module for ipv4 address validation
+> Node module for ipv4 address validation
 
 ## Install
 
@@ -12,15 +12,15 @@ $ npm install --save validate-ip
 ## Usage
 
 ```js
-var validate-ip = require('validate-ip');
+var validateip = require('validate-ip');
 
-validate-ip('255.255.255.255');
+validateip('255.255.255.255');
 //=> true
 
-validate-ip('10.0.1.256');
+validateip('10.0.1.256');
 //=> false
 
-validate-ip('192.168.1');
+validateip('192.168.1');
 //=> false
 ```
 
