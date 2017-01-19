@@ -1,5 +1,7 @@
 #  IPv4 Validator
 
+[![NPM](https://nodei.co/npm/validate-ip.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/validate-ip/)
+
 > Node module for ipv4 address validation
 
 ## Install
